@@ -4,12 +4,13 @@
 The Human Resources Report Dashboard is an interactive Power BI report that provides a comprehensive view of employee data across various categories. The dashboard is designed to analyze employee demographics, job performance, salary distribution, sick days, and other key HR metrics to support data-driven decision-making and improve organizational performance.
 
 📂 Project Details
-•	Tool Used: Power BI
-•	Data Source: HR Employee Data
-•	Key Metrics: 3520 Total Employees, $335M Total Salary Cost, 1766 Active Employees
-•	Regions Covered: Houston, Los Angeles, New York City, Seattle
-•	Sick Days: 23K
-•	Balance Days: 44K
+
+  •	Tool Used: Power BI
+  •	Data Source: HR Employee Data
+  •	Key Metrics: 3520 Total Employees, $335M Total Salary Cost, 1766 Active Employees
+  •	Regions Covered: Houston, Los Angeles, New York City, Seattle
+  •	Sick Days: 23K
+  •	Balance Days: 44K
 
 ✅ Key Features
 •	Total Employees Overview: Displays the total number of employees (3520) and salary distribution ($335M)
